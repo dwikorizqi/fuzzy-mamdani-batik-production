@@ -55,8 +55,7 @@ The analysis is implemented using **Python** and executed through **Google Colab
 ---
 
 ### 2. Install Required Libraries
-Run the following cell in Google Colab:
-```python
+Run the following cell in Google Colab
 
 ---
 
